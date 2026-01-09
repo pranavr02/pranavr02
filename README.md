@@ -8,5 +8,5 @@ RMIT Computer Science | Java Web Developer | C++ | Cybersecurity
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ## 🔥 Featured Projects
-- [Global Vaccination Insights](link-to-repo) - Java/Javalin web app analyzing WHO vaccination data
+- [Global Vaccination Insights](https://github.com/pranavr02/global-vaccination-insights) - Java/Javalin web app analyzing WHO vaccination data
 - Kali Linux GPG encryption workflows
