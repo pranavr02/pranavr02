@@ -31,14 +31,9 @@ An **AI-powered sustainable event planning platform** that helps businesses orga
 
 ---
 
-### 💉 [Global Vaccination Insights](https://github.com/pranavr02/global-vaccination-insights)
+### 💉 [VaxTrack](https://github.com/pranavr02/global-vaccination-insights)
 A **Java / Javalin web app** providing interactive visualisation and analysis of WHO vaccination data.  
 Features data filtering, live insights, and API-based statistics.
-
----
-
-### 🧩 Kali Linux GPG Workflows
-A personal collection of **GPG encryption & signing scripts** for secure communication workflows on Kali Linux.
 
 ---
 
